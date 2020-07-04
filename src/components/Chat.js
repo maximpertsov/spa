@@ -51,7 +51,7 @@ const Chat = () => {
   );
 
   return (
-    <Comment.Group>
+    <Comment.Group className="Chat">
       <Header as="h3" dividing>
         Chat
       </Header>
