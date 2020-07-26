@@ -1,27 +1,23 @@
 {
   "files": {
-    "main.css": "/spa/static/css/main.d3186a9c.chunk.css",
-    "main.js": "/spa/static/js/main.86c6476d.chunk.js",
-    "main.js.map": "/spa/static/js/main.86c6476d.chunk.js.map",
-    "runtime-main.js": "/spa/static/js/runtime-main.b2562c01.js",
-    "runtime-main.js.map": "/spa/static/js/runtime-main.b2562c01.js.map",
-    "static/css/2.0647ef51.chunk.css": "/spa/static/css/2.0647ef51.chunk.css",
-    "static/js/2.1e24727e.chunk.js": "/spa/static/js/2.1e24727e.chunk.js",
-    "static/js/2.1e24727e.chunk.js.map": "/spa/static/js/2.1e24727e.chunk.js.map",
+    "main.css": "/spa/static/css/main.5f361e03.chunk.css",
+    "main.js": "/spa/static/js/main.9f861a2e.chunk.js",
+    "main.js.map": "/spa/static/js/main.9f861a2e.chunk.js.map",
+    "runtime-main.js": "/spa/static/js/runtime-main.f4510a1c.js",
+    "runtime-main.js.map": "/spa/static/js/runtime-main.f4510a1c.js.map",
+    "static/js/2.13288ff2.chunk.js": "/spa/static/js/2.13288ff2.chunk.js",
+    "static/js/2.13288ff2.chunk.js.map": "/spa/static/js/2.13288ff2.chunk.js.map",
     "index.html": "/spa/index.html",
-    "precache-manifest.0349147d56cdbb8cb22ec38e7a517a58.js": "/spa/precache-manifest.0349147d56cdbb8cb22ec38e7a517a58.js",
+    "precache-manifest.3485921bdb65fab0a3af4e80d46714d3.js": "/spa/precache-manifest.3485921bdb65fab0a3af4e80d46714d3.js",
     "service-worker.js": "/spa/service-worker.js",
-    "static/css/2.0647ef51.chunk.css.map": "/spa/static/css/2.0647ef51.chunk.css.map",
-    "static/css/main.d3186a9c.chunk.css.map": "/spa/static/css/main.d3186a9c.chunk.css.map",
-    "static/js/2.1e24727e.chunk.js.LICENSE.txt": "/spa/static/js/2.1e24727e.chunk.js.LICENSE.txt",
-    "static/media/batman.png": "/spa/static/media/batman.f6737482.png",
-    "static/media/semantic.min.css": "/spa/static/media/outline-icons.ef60a4f6.woff"
+    "static/css/main.5f361e03.chunk.css.map": "/spa/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.13288ff2.chunk.js.LICENSE.txt": "/spa/static/js/2.13288ff2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/spa/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b2562c01.js",
-    "static/css/2.0647ef51.chunk.css",
-    "static/js/2.1e24727e.chunk.js",
-    "static/css/main.d3186a9c.chunk.css",
-    "static/js/main.86c6476d.chunk.js"
+    "static/js/runtime-main.f4510a1c.js",
+    "static/js/2.13288ff2.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9f861a2e.chunk.js"
   ]
 }
